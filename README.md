@@ -1,12 +1,19 @@
-# **R4mbb**
-## Hi there 👋
+# **R4mbb** : Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon)
 
 
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Shell-000B1D?style=flat&logo=accenture&logoColor=9999FF"/></a>
+### My Skills
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/etc-A100FF?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/etc-83B81A?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/etc-FF9E0F?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+
+
+
+
 
 <!--
 **R4mbb/R4mbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
