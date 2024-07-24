@@ -7,9 +7,9 @@
 
 ### My Skills
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/etc-A100FF?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/etc-83B81A?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/etc-FF9E0F?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-A100FF?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Rust-83B81A?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
 
 
 
