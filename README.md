@@ -1,18 +1,20 @@
 # **R4mbb** : Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon)
-
+<p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon)
+</p>
 
 <p align="center">
   <!-- ☆NEW☆ cute visit counter -->
   <img src="https://count.getloli.com/@githubR4mbb?name=githubR4mbb&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </p>
 
+<p align="center">
 ### My Skills
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-A100FF?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
-
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-A100FF?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
+</p>
 
 
 
