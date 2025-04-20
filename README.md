@@ -1,8 +1,8 @@
 # **R4mbb** : Hi there 👋
 
-<p align="center">
+<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon)
-</p>
+</div>
 
 <p align="center">
   <!-- ☆NEW☆ cute visit counter -->
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-### My Skills
+  ### My Skills
 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-A100FF?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
