@@ -19,12 +19,6 @@
 </p>
 
 
-### My Skills
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-A100FF?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat&logo=accenture&logoColor=FFFFFF"/></a> 
-
-
 
 
 ## 🏆 GitHub Trophies
