@@ -1,13 +1,22 @@
 # **R4mbb** : Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4mbb&layout=compact&theme=neon" />
+</p>
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-ff691f?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+<br>
 
-
-
+<p align="center">
 <!-- ☆NEW☆ cute visit counter -->
-<img src="https://count.getloli.com/@githubR4mbb?name=githubR4mbb&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
-
+  <img src="https://count.getloli.com/@githubR4mbb?name=githubR4mbb&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+</p>
 
 
 ### My Skills
@@ -18,17 +27,8 @@
 
 
 
-<!--
-**R4mbb/R4mbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=R4mbb&theme=darkhub&margin-w=15&no-frame=true" />
+</p>
