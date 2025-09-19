@@ -1,5 +1,30 @@
 # **R4mbb** : Hi there 👋
 
+                     ████       ██                          
+                   █              ██                        
+                  █        █        █                       
+                  █   ██   █        ██                █     
+                 █     █            ██              ████    
+                 █                  ██            █    █    
+                 ██             █               ██     █    
+         █        █   ██        █   ██        █        █    
+        ███       ██    ██    ██      ██████            █   
+        ██ █      ██                    █               ██  
+        █    █    █                                      █  
+        █      █  █                                      █  
+       █         ██                                       █ 
+       █                                                  █ 
+      ██                                                  █ 
+      █                                                   ██
+      █                                                    █
+      █                                                    █
+      █                                                    █
+      █                                                    █
+      █                                                    █
+                                                           █
+                                                           █
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4mbb&layout=compact&theme=neon" />
