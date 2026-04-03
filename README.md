@@ -25,10 +25,6 @@
                                                            █
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R4mbb&show_icons=true&theme=neon" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4mbb&layout=compact&theme=neon" />
-</p>
 <br>
 
 <p align="center">
@@ -46,8 +42,9 @@
 
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R4mbb&theme=darkhub&margin-w=15&no-frame=true" />
-</p>
+## 🏆 CVE's
+- CVE-2025-47449 | WordPress Meow Gallery plugin
+- CVE-2025-54372 | pendding
+- CVE-2026-20695 | ZDI-CAN-28499, Apple XNU Kernel Tahoe 26.3
+- CVE-2026-28868 | Apple XNU Kernel Tahoe 26.3
+- CVE-2026-28817 | Apple macOS Tahoe 26.3 Print
