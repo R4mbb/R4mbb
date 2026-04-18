@@ -40,7 +40,7 @@
 </p>
 
 
-
+- Best of the Best 14th VA
 
 ## 🏆 CVE's
 - CVE-2025-47449 | WordPress Meow Gallery plugin
