@@ -48,4 +48,4 @@
 - CVE-2026-20695 | ZDI-CAN-28499, Apple XNU Kernel Tahoe 26.3
 - CVE-2026-28868 | Apple XNU Kernel Tahoe 26.3
 - CVE-2026-28817 | Apple macOS Tahoe 26.3 Print
-- CVE-2026-44119 | RESERVED
+- CVE-2026-44119 | Apache HTTP Server
