@@ -49,3 +49,4 @@
 - CVE-2026-28868 | Apple XNU Kernel Tahoe 26.3
 - CVE-2026-28817 | Apple macOS Tahoe 26.3 Print
 - CVE-2026-44119 | Apache HTTP Server
+- CVE-2026-54535 | CVSS3.1 8.3 RESERVED
