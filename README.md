@@ -51,3 +51,4 @@
 - CVE-2026-44119 | Apache httpd
 - CVE-2026-54535 | RESERVED
 - CVE-2026-12399 | WordPress Plugin Gutenverse
+- CVE-2026-15993 | RESERVED
