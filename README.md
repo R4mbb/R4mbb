@@ -36,7 +36,7 @@
 
 <p align="center">
 <!-- ☆NEW☆ cute visit counter -->
-  <img src="https://count.getloli.com/@githubR4mbb?name=githubR4mbb&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  <img src="https://count.getloli.com/@githubR4mbb?name=githubR4mbb&theme=morden-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </p>
 
 
