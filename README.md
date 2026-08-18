@@ -52,3 +52,4 @@
 - CVE-2026-54535 | RESERVED
 - CVE-2026-12399 | WordPress Plugin Gutenverse
 - CVE-2026-15993 | WordPress Plugin Form Maker by 10Web
+- CVE-2026-72135 | Linux Kernel tpm
