@@ -49,7 +49,7 @@
 - CVE-2026-28868 | Apple XNU Kernel Tahoe 26.3
 - CVE-2026-28817 | Apple macOS Tahoe 26.3 Print
 - CVE-2026-44119 | Apache httpd
-- CVE-2026-54535 | RESERVED
+- CVE-2026-54535 | OpenSIPS
 - CVE-2026-12399 | WordPress Plugin Gutenverse
 - CVE-2026-15993 | WordPress Plugin Form Maker by 10Web
 - CVE-2026-72135 | Linux Kernel tpm
