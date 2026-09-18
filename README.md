@@ -54,3 +54,4 @@
 - CVE-2026-15993 | WordPress Plugin Form Maker by 10Web
 - CVE-2026-72135 | Linux Kernel tpm
 - CVE-2026-43687 | Apple XNU Kernel Tahoe 26.6
+- CVE-2026-93430 | WordPress Plugin GD Rating System
