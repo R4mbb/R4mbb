@@ -55,3 +55,5 @@
 - CVE-2026-72135 | Linux Kernel tpm
 - CVE-2026-43687 | Apple XNU Kernel Tahoe 26.6
 - CVE-2026-93430 | WordPress Plugin GD Rating System
+- CVE-2026-102817 | libarchive
+- CVE-2026-102818 | libarchive
