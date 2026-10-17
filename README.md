@@ -57,3 +57,4 @@
 - CVE-2026-93430 | WordPress Plugin GD Rating System
 - CVE-2026-102817 | libarchive
 - CVE-2026-102818 | libarchive
+- CVE-2026-100202 | Windows Message Queuing Service
