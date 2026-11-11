@@ -53,8 +53,10 @@
 - CVE-2026-12399 | WordPress Plugin Gutenverse
 - CVE-2026-15993 | WordPress Plugin Form Maker by 10Web
 - CVE-2026-72135 | Linux Kernel tpm
-- CVE-2026-43687 | Apple XNU Kernel Tahoe 26.6
+- CVE-2026-43687 | Apple XNU Kernel Tahoe 26.6 NFS
 - CVE-2026-93430 | WordPress Plugin GD Rating System
 - CVE-2026-102817 | libarchive
 - CVE-2026-102818 | libarchive
 - CVE-2026-100202 | Windows Message Queuing Service
+- CVE-2026-113896 | Apple macOS Tahoe 27.2 FileProvider
+- CVE-2026-112523 | Apple macOS Tahoe 27.2 helpd
